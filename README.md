@@ -12,7 +12,7 @@
 - 📫 a20989@lazarocardenas.edu.mx
 - 😄 Pronouns: she/it
 -->
-![](![image](https://user-images.githubusercontent.com/113654691/218570350-3b6bfb67-345a-42be-9387-1cf0ef6b99fa.png)
+(![image](https://user-images.githubusercontent.com/113654691/218570350-3b6bfb67-345a-42be-9387-1cf0ef6b99fa.png)
 
 # MI HORARIOOO
 # no me gusta mi horario :(

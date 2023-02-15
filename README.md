@@ -16,7 +16,7 @@
 
 # MI HORARIOOO
 # no me gusta mi horario :(
-![] ![download](https://user-images.githubusercontent.com/113654691/219147047-7ce32486-2ce3-4d9b-82f5-7bbfebcfed98.jpg)
+ ![download](https://user-images.githubusercontent.com/113654691/219147047-7ce32486-2ce3-4d9b-82f5-7bbfebcfed98.jpg)
 
 
 | hora         | Lunes                            | martes             | miercoles                                       | jueves                | viernes               |
